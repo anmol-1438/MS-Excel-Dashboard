@@ -1,4 +1,4 @@
-# MS-Excel-Dashboard
+# FlipMart-Excel-Dashboard
 This project showcases my journey of mastering MS Excel, where I learned:
   - Formulas and Functions
   - Lookups
